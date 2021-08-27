@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="5TowersGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/5TowersGame_jar</output-path>
+    <root id="archive" name="5TowersGame.jar">
+      <element id="module-output" name="5TowersGame" />
+    </root>
+  </artifact>
+</component>
